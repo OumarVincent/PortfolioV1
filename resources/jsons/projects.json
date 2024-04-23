@@ -1,0 +1,66 @@
+{
+	"projects":
+	[
+		{
+			"date": 2023,
+			"type": "Personal Project",
+			"title": "Solar system simulation",
+			"description": "Ce programme est une simulation simple du mouvement des planètes du système solaire en utilisant la bibliothèque Pygame. Il affiche les planètes et les fait se déplacer en fonction de la gravité.",
+			"tags":
+			[
+				{ "name": "Python", "url": "https://www.python.org/" }
+			],
+			"links":
+			[
+				"https://github.com/OumarVincent/solar-systeme-project",
+				"https://github.com/OumarVincent/solar-systeme-project",
+				"none"
+			],
+			"video": "resources/videos/projects/solar_system_simulation.mp4",
+			"image": "resources/images/projects/solar_system.webp",
+			"logo": "resources/svgs/projects/solar_system.svg",
+			"categories": ["Personal", "Simulations"]
+		},
+		{
+			"date": 2021,
+			"type": "School Project",
+			"title": "Calculatrice IMC",
+			"description": "Ce projet consiste en un calculateur d'Indice de Masse Corporelle (IMC) implémenté en Python avec une interface graphique utilisant la bibliothèque Tkinter",
+			"tags":
+			[
+				{ "name": "Python", "url": "https://www.python.org/" }
+			],
+			"links":
+			[
+				"https://github.com/OumarVincent/Calcularice-imc",
+				"https://github.com/OumarVincent/Calcularice-imc",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/projects/IMC.webp",
+			"logo": "resources/svgs/projects/imc.svg",
+			"categories": ["School"]
+		},
+		{
+			"date": 2023,
+			"type": "Personal Project",
+			"title": "Portfolio",
+			"description": "Ce projet est un site web dynamique réalisé en vanilla html/css et javascript.",
+			"tags":
+			[
+				{ "name": "HTML", "url": "https://developer.mozilla.org/en-US/docs/Web/HTML" },
+				{ "name": "CSS", "url": "https://developer.mozilla.org/en-US/docs/Web/CSS" },
+				{ "name": "JavaScript", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
+				{ "name": "JSON", "url": "https://www.json.org/json-en.html" }
+			],
+			"links":
+			[
+				"https://oumarsylla.com"
+			],
+			"video": "resources/videos/projects/portfolio.mp4",
+			"image": "resources/images/projects/portfolio.webp",
+			"logo": "resources/svgs/projects/portfolio.svg",
+			"categories": ["Personal", "Web Development"]
+		}
+	]
+}

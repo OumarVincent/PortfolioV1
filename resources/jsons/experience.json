@@ -1,0 +1,87 @@
+{
+	"experience":
+	[
+		{
+			"date": 2024,
+			"type": "Web Developper",
+			"title": "M10",
+			"description": "Pendant mon stage de deuxième année, chez M10, j'ai conçu le back-end et le front-end d'une vitrine de sites et d'applications affichés de manière dynamique.",
+			"tags":
+			[
+				{ "name": "PHP", "url": "https://www.php.net/" },
+				{ "name": "Javascript", "url": "https://developer.mozilla.org/fr/docs/Web/JavaScript" },
+				{ "name": "SQL", "url": "https://sql.sh" }
+			],
+			"link": "https://www.linkedin.com/in/bakary-mane-7984621b7/",
+			"video": "none",
+			"image": "resources/images/parcours/M10.webp"
+		},
+		{
+			"date": 2023,
+			"type": "Software Engineer",
+			"title": "Expert Audition",
+			"description": "Pendant mon stage de 6 semaines en première année de BTS SIO chez Expert Audition, j'ai été chargé de concevoir une application web pour le système de gestion de prospects. Mon rôle consistait à développer une solution permettant de centraliser et de comparer des informations relatives aux prospects, contribuant ainsi à optimiser le processus de suivi et de conversion des prospects pour l'entreprise Expert Audition.",
+			"tags":
+			[
+				{ "name": "PHP", "url": "https://www.php.net/" },
+				{ "name": "Javascript", "url": "https://ecma-international.org/publications-and-standards/standards/ecma-262/" },
+				{ "name": "SQL", "url": "https://sql.sh" }
+			],
+			"link": "https://expert-audition.business.site/",
+			"video": "none",
+			"image": "resources/images/parcours/audition.webp"
+		},
+		{
+			"date": 2022,
+			"type": "Technicien de maintenance",
+			"title": "Dott",
+			"description": "J'ai été employé pendant trois mois en tant que technicien de maintenance chez Dott, une entreprise spécialisée dans la micromobilité urbaine. Mon rôle en tant que technicien de maintenance chez Dott impliquait la réparation, l'entretien et la garantie du bon fonctionnement des équipements de micromobilité pour assurer une expérience sûre et optimale pour les utilisateurs.",
+			"tags":
+			[
+				
+			],
+			"link": "https://ridedott.com/fr/",
+			"video": "none",
+			"image": "resources/images/parcours/Dott.webp"
+		},
+		{
+			"date": 2022,
+			"type": "Serveur",
+			"title": "Novotel",
+			"description": "Pendant mon année de césure, j'ai occupé le poste de serveur chez Novotel à Paris Vaugirard.",
+			"tags":
+			[
+				
+			],
+			"link": "https://all.accor.com/brands/novotel.fr.shtml",
+			"video": "none",
+			"image": "resources/images/parcours/novotel.webp"
+		},
+		{
+			"date": 2021,
+			"type": "Bac STI2D",
+			"title": "Lycée Diderot",
+			"description": "Après un passage au Lycée Jules Ferry et au terme de mes deux années passées à Diderot, je me suis vu attribuer un baccalauréat technologique, mention bien, spécialité Innovation Technologique et Développement Durable.",
+			"tags":
+			[
+				
+			],
+			"link": "https://lyc-diderot.ac-paris.fr/",
+			"video": "none",
+			"image": "resources/images/parcours/diderot.webp"
+		},
+		{
+			"date": 2018,
+			"type": "Brevet des collèges",
+			"title": "Collège George Clemenceau",
+			"description": "Après 4 ans au Collège George Clemenceau, j'ai décroché mon brevet mention bien",
+			"tags":
+			[
+						
+			],
+			"link": "https://pia.ac-paris.fr/serail/jcms/s2_1550804/fr/college-georges-clemenceau",
+			"video": "none",
+			"image": "resources/images/parcours/clemenceau.webp"
+		}
+	]
+}
